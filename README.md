@@ -1,4 +1,6 @@
-# Console
+# Console Application for Nerves
+
+Was built on *Badges Hacking with Nerves* training at Elixir Conf 2016
 
 To start your Nerves app:
 
